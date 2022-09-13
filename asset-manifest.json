@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dani-website/static/css/main.073c9b0a.css",
+    "main.js": "/dani-website/static/js/main.c3a25b3e.js",
+    "static/js/787.0ed20303.chunk.js": "/dani-website/static/js/787.0ed20303.chunk.js",
+    "static/media/logo.svg": "/dani-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dani-website/index.html",
+    "main.073c9b0a.css.map": "/dani-website/static/css/main.073c9b0a.css.map",
+    "main.c3a25b3e.js.map": "/dani-website/static/js/main.c3a25b3e.js.map",
+    "787.0ed20303.chunk.js.map": "/dani-website/static/js/787.0ed20303.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c3a25b3e.js"
+  ]
+}
